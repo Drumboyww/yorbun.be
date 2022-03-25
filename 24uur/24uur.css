@@ -1,12 +1,12 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 728px;
+  min-height: 718px;
 }
 
 .u-section-1 .u-video-1 {
   width: 570px;
   height: 321px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 260px auto 0 0;
+  margin: 250px auto 0 0;
 }
 
 .u-section-1 .embed-responsive-1 {
@@ -131,7 +131,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 672px;
+    min-height: 662px;
   }
 
   .u-section-1 .u-video-1 {
